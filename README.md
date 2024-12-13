@@ -44,7 +44,7 @@ Welcome to the **Vehicle Builder** a TypeScript-based command-line application! 
 3. Follow the on-screen prompts to create or select vehicles and perform actions.
 
 ## Demonstration
-Watch a walkthrough of the application functionality [here](https://your-walkthrough-video-link.com).
+Watch a walkthrough of the application functionality [here](https://drive.google.com/file/d/17ls9cKTbClTQZ-sEW9imzDCjrqx6iQoe/view?usp=sharing).
 
 ### Requirements
 - Node.js
